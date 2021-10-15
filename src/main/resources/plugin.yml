@@ -1,0 +1,4 @@
+name: AssholeVexes
+version: '${version}'
+main: pw.valaria.assholevexes.AssholeVexes
+api-version: 1.17
